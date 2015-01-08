@@ -4,7 +4,7 @@
 [![build status][travis-image]][travis-url]
 [![Test coverage][coveralls-image]][coveralls-url]
 
-[npm-image]: https://img.shields.io/npm/v/stripi.svg?style=flat
+[npm-image]: https://img.shields.io/npm/v/chunk-array.svg?style=flat
 [npm-url]: https://npmjs.org/package/chunk-array
 [travis-image]: https://img.shields.io/travis/haio/chunk-array.svg?style=flat
 [travis-url]: https://travis-ci.org/haio/chunk-array

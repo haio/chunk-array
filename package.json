@@ -1,11 +1,12 @@
 {
   "name": "chunk-array",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Turn an array into chunks of n-size",
   "main": "index.js",
   "scripts": {
     "test": "mocha --reporter spec",
-    "test-cov": "node node_modules/.bin/istanbul cover ./node_modules/.bin/_mocha -- --reporter dot"
+    "test-cov": "node node_modules/.bin/istanbul cover ./node_modules/.bin/_mocha -- --reporter dot",
+    "test-travis": "node node_modules/.bin/istanbul cover node_modules/mocha/bin/_mocha --report lcovonly -- --reporter dot"
   },
   "repository": {
     "type": "git",
