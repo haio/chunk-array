@@ -1,6 +1,6 @@
 {
   "name": "chunk-array",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Turn an array into chunks of n-size",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,7 @@
     "url": "https://github.com/haio/chunk-array"
   },
   "keywords": [
-    "thunk",
+    "chunk",
     "array",
     "size"
   ],
